@@ -27,7 +27,7 @@ while valor_digitado != 0:
         if valor == valor_digitado:
             esta_na_lista = True
 
-    if esta_na_faixa and divisivel_por_x and not esta_na_lista:
+    if esta_na_faixa and divisivel_por_x and esta_na_lista == False:
         soma += valor_digitado
         lista.append(valor_digitado)
 
