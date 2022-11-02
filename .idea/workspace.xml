@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="555223d9-09ab-43e4-b31b-12091899f10a" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/../P1/src/q03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P1/src/q04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P1/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="555223d9-09ab-43e4-b31b-12091899f10a" name="Changes" comment="Improve workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
