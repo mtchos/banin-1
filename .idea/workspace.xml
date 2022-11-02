@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="555223d9-09ab-43e4-b31b-12091899f10a" name="Changes" comment="Improve workspace">
+    <list default="true" id="555223d9-09ab-43e4-b31b-12091899f10a" name="Changes" comment="Add config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/q02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q03.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/q03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <updated>1667254904177</updated>
       <workItem from="1667254906910" duration="26000" />
       <workItem from="1667254944582" duration="9868000" />
-      <workItem from="1667351829584" duration="306000" />
+      <workItem from="1667351829584" duration="1454000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1667258528701</created>
@@ -78,7 +78,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667264139608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Remove forbidden builtin function">
+      <created>1667352503469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667352503469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add config">
+      <created>1667352532652</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667352532652</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add config">
+      <created>1667352550498</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667352550498</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,12 +121,14 @@
     <MESSAGE value="Add Q3 solution" />
     <MESSAGE value="Add Q4 answer" />
     <MESSAGE value="Improve workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve workspace" />
+    <MESSAGE value="Remove forbidden builtin function" />
+    <MESSAGE value="Add config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add config" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/P1$q03.coverage" NAME="q03 Coverage Results" MODIFIED="1667260709413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/P1$q03.coverage" NAME="q03 Coverage Results" MODIFIED="1667353258318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/P1$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1667255593823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/P1$q04.coverage" NAME="q04 Coverage Results" MODIFIED="1667263924129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/P1$q02.coverage" NAME="q02 Coverage Results" MODIFIED="1667258333298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/P1$q02.coverage" NAME="q02 Coverage Results" MODIFIED="1667352400678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

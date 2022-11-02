@@ -15,7 +15,9 @@ total_varejo = 0
 total_atacado = 0
 
 for venda in range(numero_vendas):
-    codigo, quantidade_venda = map(int, input().split())
+    codigo, quantidade_venda = input().split()
+    codigo = int(codigo)
+    quantidade_venda = int(quantidade_venda)
     if codigo in codigos:
         indice = codigos.index(codigo)
         if quantidade_venda >= quantidade_minima_atacado[indice]:
