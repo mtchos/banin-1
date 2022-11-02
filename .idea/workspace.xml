@@ -45,7 +45,7 @@
       <updated>1667254904177</updated>
       <workItem from="1667254906910" duration="26000" />
       <workItem from="1667254944582" duration="9868000" />
-      <workItem from="1667351829584" duration="1454000" />
+      <workItem from="1667351829584" duration="1754000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1667258528701</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667352550498</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Remove forbidden builtin function">
+      <created>1667353390784</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667353390784</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,12 +125,12 @@
     <MESSAGE value="Add Q3 solution" />
     <MESSAGE value="Add Q4 answer" />
     <MESSAGE value="Improve workspace" />
-    <MESSAGE value="Remove forbidden builtin function" />
     <MESSAGE value="Add config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add config" />
+    <MESSAGE value="Remove forbidden builtin function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove forbidden builtin function" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/P1$q03.coverage" NAME="q03 Coverage Results" MODIFIED="1667353258318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/P1$q03.coverage" NAME="q03 Coverage Results" MODIFIED="1667353347795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/P1$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1667255593823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/P1$q04.coverage" NAME="q04 Coverage Results" MODIFIED="1667263924129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/P1$q02.coverage" NAME="q02 Coverage Results" MODIFIED="1667352400678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
